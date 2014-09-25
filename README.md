@@ -1,6 +1,6 @@
 beaver-vagrant
 ==============
-Vagrant configuration for [beaver](https://github.com/BeSublime/beaver).
+[Vagrant](http://www.vagrantup.com/) configuration for [beaver](https://github.com/BeSublime/beaver).
 
 
 Setup & Installation
